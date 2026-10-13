@@ -1,0 +1,93 @@
+body {
+    background-color: lightblue;
+    font-family: Arial;
+    color: gray;
+}
+
+#main {
+    width: 800px;
+    margin: auto;
+    padding: 10px;
+    background-color: white;
+    border: 5px solid lightblue;
+}
+
+#header {
+    background-color: lightcyan;
+    border: 3px solid lightblue;
+    padding: 10px;
+    margin-bottom: 10px;
+    text-align: right;
+}
+
+#header h1 {
+    color: teal;
+    font-family: Arial;
+    font-weight: normal;
+    margin: 0;
+}
+
+#header p {
+    color: teal;
+    margin: 5px;
+}
+
+#friends {
+    float: left;
+    width: 160px;
+    background-color: turquoise;
+    border: 3px solid teal;
+    padding: 10px;
+    margin-right: 10px;
+}
+
+#friends h2 {
+    color: teal;
+    font-weight: normal;
+}
+
+#friends ul {
+    padding-left: 20px;
+}
+
+#friends li {
+    font-weight: bold;
+}
+#friends a {
+    text-decoration:none;
+    colour:brown;
+}
+
+#content {
+    margin-left: 195px;
+} 
+img{
+float:right;
+width:150px;
+height:150px;
+margin:5px;
+}
+
+.entry {
+    background-color: lightcyan;
+    border: 3px solid lightblue;
+    padding: 10px;
+    margin-bottom: 10px;
+    overflow: auto;
+}
+
+.entry h2 {
+    color: teal;
+    font-family: Arial;
+    font-weight: normal;
+}
+
+.entry p {
+    color: red;
+}
+
+.date {
+    font-weight: bold;
+    color: teal;
+}
+     border-bottom:3px dotted purple;
